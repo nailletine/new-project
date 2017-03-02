@@ -1,0 +1,66 @@
+body{
+  background-color: rgb(104, 187, 285);
+  width: auto;
+}
+
+header{
+  background-color: rgb(61, 168, 230);
+  height: 150px;
+
+}
+h1{
+  text-align: center;
+  color: white;
+  font-style: normal;
+  font-family: fantasy;
+  font-size: 75px;}
+
+.container{
+  margin-top: 20px;
+  background-color: rgb(61, 168, 230);
+
+}
+
+#left-box{
+  margin: 20px;
+  word-wrap: break-word;
+  position: relative;
+  float: left;
+  width: 250px;
+  height: 950px;
+  background-color: white;
+
+  }
+
+
+img{
+  width: 250px;
+  text-align: center;
+}
+
+#right-box{
+  display: inline-block;
+  margin: 20px;
+  width: 900px;
+  height: 950px;
+
+  background-color: white;
+}
+#experiences-box{
+  word-wrap: break-word;
+  margin-top: 50px;
+  margin-right: 20px;
+  margin-left: 20px;
+  background-color: red;
+
+  height: 400px;
+}
+#studies-box{
+  word-wrap: break-word;
+  margin-top: 50px;
+  margin-right: 20px;
+  margin-left: 20px;
+  background-color: red;
+  height: 400px;
+
+}
